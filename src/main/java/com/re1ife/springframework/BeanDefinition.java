@@ -1,5 +1,7 @@
 package com.re1ife.springframework;
-
+/**
+ * @author JustACP
+ */
 public class BeanDefinition {
     private Object bean;
 
@@ -11,5 +13,4 @@ public class BeanDefinition {
         return bean;
     }
 
-    
 }
